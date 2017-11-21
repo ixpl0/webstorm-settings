@@ -1,17 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!analytics_main.js" />
+    <option name="FILE_MASK" value="!analytics_main.js, *.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>!</mask>
@@ -35,6 +30,13 @@
       <mask>!analytics_main</mask>
       <mask>!analytics_main.</mask>
       <mask>!analytics_main.js</mask>
+      <mask>!analytics_main.js,</mask>
+      <mask>!analytics_main.js,</mask>
+      <mask>!analytics_main.js, *</mask>
+      <mask>!analytics_main.js, *.</mask>
+      <mask>!analytics_main.js, *.j</mask>
+      <mask>*.js</mask>
+      <mask>!analytics_main.js, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
