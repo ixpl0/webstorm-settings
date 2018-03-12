@@ -5,8 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.spec*" />
     <recentFileMasks>
-      <mask>!analytics_main.js, *.j</mask>
       <mask>*.js</mask>
       <mask>a</mask>
       <mask>!analytics_main.js, *.js</mask>
@@ -36,6 +36,7 @@
       <mask>!analytics_main.js, !*Resources.js, *js</mask>
       <mask>!analytics_main.js, !*Resources.js, *.js</mask>
       <mask>!*.cs</mask>
+      <mask>!*.spec*</mask>
     </recentFileMasks>
   </component>
 </application>
