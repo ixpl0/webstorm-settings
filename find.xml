@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Resources.*" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>a</mask>
       <mask>!analytics_main.js, *.js</mask>
       <mask>!analytics_main.js, !*.js</mask>
@@ -34,6 +34,7 @@
       <mask>!analytics_main.js, !*Resources.js, *.js</mask>
       <mask>!*.cs</mask>
       <mask>!*.spec*</mask>
+      <mask>!*Resources.*</mask>
     </recentFileMasks>
   </component>
 </application>
