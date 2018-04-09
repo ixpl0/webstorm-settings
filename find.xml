@@ -28,12 +28,12 @@
       <mask>!analytics_main.js, !*Resources.js,</mask>
       <mask>!analytics_main.js, !*Resources.js, *</mask>
       <mask>!analytics_main.js, !*Resources.js, *j</mask>
-      <mask>!analytics_main.js, !*Resources.js, *js</mask>
       <mask>!analytics_main.js, !*Resources.js, *.js</mask>
       <mask>!*.cs</mask>
       <mask>!*.spec*</mask>
       <mask>!*Resources.*</mask>
       <mask>!*Resources.*,!*.spec*</mask>
+      <mask>!analytics_main.js, !*Resources.js, *js</mask>
     </recentFileMasks>
   </component>
 </application>
