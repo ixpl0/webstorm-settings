@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!analytics_main.js, *.js</mask>
       <mask>!analytics_main.js, !*.js</mask>
       <mask>!analytics_main.js, !**.js</mask>
       <mask>!analytics_main.js, !*R*.js</mask>
@@ -34,6 +33,7 @@
       <mask>!*Resources.*</mask>
       <mask>!*Resources.*,!*.spec*</mask>
       <mask>!analytics_main.js, !*Resources.js, *js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
