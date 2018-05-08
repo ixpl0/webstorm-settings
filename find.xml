@@ -1,11 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>!analytics_main.js, !*.js</mask>
+      <mask>!analytics_main.js, !**.js</mask>
+      <mask>!analytics_main.js, !*R*.js</mask>
+      <mask>!analytics_main.js, !*Re*.js</mask>
+      <mask>!analytics_main.js, !*Res*.js</mask>
+      <mask>!analytics_main.js, !*Reso*.js</mask>
+      <mask>!analytics_main.js, !*Resou*.js</mask>
+      <mask>!analytics_main.js, !*Resour*.js</mask>
+      <mask>!analytics_main.js, !*Resourc*.js</mask>
+      <mask>!analytics_main.js, !*Resource*.js</mask>
+      <mask>!analytics_main.js, !*Resources*.js</mask>
+      <mask>!analytics_main.js, !*Resources.k*.js</mask>
+      <mask>!analytics_main.js, !*Resources.*.js</mask>
+      <mask>!analytics_main.js, !*Resources.j*.js</mask>
+      <mask>!analytics_main.js, !*Resources.js*.js</mask>
+      <mask>!analytics_main.js, !*Resources.js.js</mask>
+      <mask>!analytics_main.js, !*Resources.js.s</mask>
+      <mask>!analytics_main.js, !*Resources.js.</mask>
+      <mask>!analytics_main.js, !*Resources.js</mask>
+      <mask>!analytics_main.js, !*Resources.js,</mask>
+      <mask>!analytics_main.js, !*Resources.js,</mask>
+      <mask>!analytics_main.js, !*Resources.js, *</mask>
+      <mask>!analytics_main.js, !*Resources.js, *j</mask>
+      <mask>!analytics_main.js, !*Resources.js, *.js</mask>
+      <mask>!*.cs</mask>
+      <mask>!*.spec*</mask>
+      <mask>!*Resources.*</mask>
+      <mask>!*Resources.*,!*.spec*</mask>
+      <mask>!analytics_main.js, !*Resources.js, *js</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
   </component>
 </application>
