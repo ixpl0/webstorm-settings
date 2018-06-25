@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.4.0.4-2018.1" />
     <option name="highlightColor" value="88e389" />
     <option name="compactSidebar" value="true" />
+    <option name="userId" value="76cc2a72:164364280da:-7fff" />
   </component>
 </application>
