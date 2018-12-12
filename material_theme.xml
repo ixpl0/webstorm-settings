@@ -1,10 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.6.4" />
+    <option name="version" value="2.1.5.3" />
     <option name="highlightColor" value="88e389" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
-    <option name="userId" value="-59edccdb:1673b185c3f:-7fff" />
-    <option name="isWizardShown" value="true" />
   </component>
 </application>
