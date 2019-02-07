@@ -56,6 +56,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
