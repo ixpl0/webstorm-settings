@@ -6,7 +6,16 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="iXplo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.orghttp://163.172.133.137/JS/vue-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://163.172.133.137/JS/vue-proxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="B:\nodeProjects" />
   </component>
 </application>
