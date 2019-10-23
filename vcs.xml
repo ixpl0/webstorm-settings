@@ -18,6 +18,10 @@
           <option name="url" value="http://163.172.133.137" />
           <option name="userName" value="a.kashcheev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://163.172.133.137/JS/alfa-u4et-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="B:\nodeProjects" />
