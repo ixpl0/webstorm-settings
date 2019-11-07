@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
-  <JSCodeStyleSettings>
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
