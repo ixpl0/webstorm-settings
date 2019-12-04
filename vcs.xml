@@ -30,6 +30,10 @@
           <option name="url" value="https://iXplo@bitbucket.org/kir4ous/vcal_new.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://163.172.133.137/JS/ugd-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="A:\" />
