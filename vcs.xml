@@ -50,6 +50,10 @@
           <option name="url" value="http://git.alfakom.org" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.alfakom.org" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="A:\projects" />
