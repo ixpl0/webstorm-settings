@@ -4,9 +4,9 @@
       <mapping ext="php" type="HTML" />
       <mapping ext="nedb" type="JavaScript" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern=".editiorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
