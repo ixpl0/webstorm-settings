@@ -20,6 +20,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="" />
+  </VueCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
